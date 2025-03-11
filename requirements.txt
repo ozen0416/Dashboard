@@ -1,10 +1,7 @@
-python3.11
-numpy
+python
 pandas
 streamlit
 numpy
-pandas
 plotly
 seaborn
 matplotlib
-os
