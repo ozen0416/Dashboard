@@ -1,7 +1,9 @@
-numpy==1.24.3
-pandas==2.0.1
-Pillow==9.5.0
-streamlit==1.10.0
-streamlit_option_menu==0.3.2
-numpy==1.24.3
-pandas==2.0.1
+numpy
+pandas
+streamlit
+numpy
+pandas
+plotly
+seaborn
+matplotlib
+os
